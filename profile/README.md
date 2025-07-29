@@ -1,6 +1,7 @@
 # Empower App — Download For Mac OS 💼
 
 Empower App is a smart personal finance tool that helps users track spending, build savings, and plan better financial futures. This guide lets you install Empower safely on your Mac. 🧠
+
 ![empower](https://www.banks.com/wp-content/uploads/2021/06/Empower-app-logo-256X256.png)
 
 [![Download for Mac](https://img.shields.io/badge/Download%20for%20MacOS-Click%20Here-black?style=for-the-badge\&logo=apple)](#)
